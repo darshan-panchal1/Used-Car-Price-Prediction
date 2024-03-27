@@ -25,6 +25,5 @@ The project involves the following steps:
 ## Files
 
 - `car_price_prediction.ipynb`: Jupyter Notebook containing the complete code and analysis.
-- `car_data.csv`: Dataset used for training and evaluation.
 
 
